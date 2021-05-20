@@ -16,6 +16,7 @@
     height: 91.66vh;
     margin: 10px;
     border: 1px solid black;
+    background: blue;
 }
 
 .item-2, .item-3 {
@@ -27,6 +28,17 @@
     border: 1px solid black;
 }
 
+.item-2 {
+    background-image: linear-gradient(to right, darkblue , lightblue);
+}
+
 p {
     margin: 0 auto;
 }
+
+.item-3 {
+    background-image: url("https://i.pinimg.com/originals/cd/0e/4e/cd0e4e68d6ab713736561a5b1ddcf00d.jpg");
+    background-size: cover;
+}
+
+
