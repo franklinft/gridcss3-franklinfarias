@@ -13,7 +13,7 @@
     width: 25%;
     float: left;
     padding: 15px;
-    height: 375px;
+    height: 91.66vh;
     margin: 10px;
     border: 1px solid black;
 }
@@ -22,8 +22,8 @@
     width: 66.66%;
     float: left;
     padding: 15px;
-    height: 175px;
-    margin: 10px;
+    height: 45vh;
+    margin: 7px;
     border: 1px solid black;
 }
 
