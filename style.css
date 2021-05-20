@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+.item-1, .item-2, .item-3 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    vertical-align: center;
+}
+
+.item-1 {
+    width: 25%;
+    float: left;
+    padding: 15px;
+    height: 375px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.item-2, .item-3 {
+    width: 66.66%;
+    float: left;
+    padding: 15px;
+    height: 175px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+p {
+    margin: 0 auto;
+}
